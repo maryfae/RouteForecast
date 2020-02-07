@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MaryWillcock/Documents/GitHub/RouteForecast/mlruns/0/800a2296bdce406593b2d745122ff80b/artifacts
+end_time: 1581011547439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 800a2296bdce406593b2d745122ff80b
+run_uuid: 800a2296bdce406593b2d745122ff80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1581011547409
+status: 4
+tags: []
+user_id: MaryWillcock
